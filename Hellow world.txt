@@ -1,5 +1,5 @@
-println("Hellow world!");
-println("Hellow everybody");
-Println("Hellow");
-println("Hellow my dear friend")
-println("Glad to see you");
+println("Hello world;");
+println("Hello everybody;");
+Println("Hello;");
+println("Hello my dear friend;");
+println("Glad to see you;");
