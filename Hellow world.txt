@@ -1,1 +1,3 @@
 println("Hellow world!");
+println("Hellow everybody");
+Println("Hellow");
